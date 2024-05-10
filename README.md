@@ -24,6 +24,5 @@
 
 
 ### Follow me 📲
-[![Telegram](https://img.shields.io/badge/-Telegram-007ACC?style=for-the-badge&logo=Telegram&logoColor=000000)](https://t.me/Al1mov2004)
-[![Instagram](https://img.shields.io/badge/-Instagram-833AB4?style=for-the-badge&logo=Instagram&logoColor=000000)](https://www.instagram.com/al1mov_ulugbek?igsh=d2hiMnUzenptZXJm)
-[![VK](https://img.shields.io/badge/-VK-4A76A8?style=for-the-badge&logo=VK&logoColor=000000)](https://vk.com/id708889714)
+[![Telegram](https://img.shields.io/badge/-Telegram-007ACC?style=for-the-badge&logo=Telegram&logoColor=000000)](https://t.me/jamshid_front_dev)
+[![Instagram](https://img.shields.io/badge/-Instagram-833AB4?style=for-the-badge&logo=Instagram&logoColor=000000)](https://www.instagram.com/jamshid_front_dev?igsh=YWJ1MzF3dXlvdXJo)
