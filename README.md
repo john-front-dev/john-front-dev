@@ -24,5 +24,5 @@
 
 
 ### Follow me 📲
-[![Telegram](https://img.shields.io/badge/-Telegram-007ACC?style=for-the-badge&logo=Telegram&logoColor=000000)](https://t.me/jamshid_front_dev)
+[![Telegram](https://img.shields.io/badge/-Telegram-007ACC?style=for-the-badge&logo=Telegram&logoColor=000000)](https://t.me/jamshidmamatqulovv)
 [![Instagram](https://img.shields.io/badge/-Instagram-833AB4?style=for-the-badge&logo=Instagram&logoColor=000000)](https://www.instagram.com/jamshid_front_dev?igsh=YWJ1MzF3dXlvdXJo)
