@@ -39,7 +39,7 @@
 
 ###
 
-<h3 align="left">🔥   My statistic :</h3>
+<h3 align="left">🔥   My statistics :</h3>
 
 ###
 
