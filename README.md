@@ -6,7 +6,7 @@
 
 #### I'm a passionate frontend developer specializing in Vue.js and React. With a keen eye for detail and a dedication to crafting clean, efficient code, I thrive on solving complex problems and delivering exceptional user experiences. Whether collaborating with a team or working independently, I bring creativity and enthusiasm to every project. Let's build something amazing together! 😊🚀
 
-### Languages and Frameworks 📝
+### Technologies 📝
 
 ###
 
